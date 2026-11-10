@@ -16,6 +16,7 @@ Skill 按三种方式收录。完整规则见 [AGENTS.md](./AGENTS.md)。
 | --- | --- | --- | --- |
 | [stc](./stc/) | STC（Simplified Technical Chinese）简明技术性中文写作、改写与审阅规范 | 方式 2 · 参考改造 | [daimonia-ai/STC-Simplified-Technical-Chinese](https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese) |
 | [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 用一页 HTML 回答复杂问题（Answer me with HTML） | 方式 1 · 直接引用 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) |
+| [upy-project-adapter](https://github.com/AaronConlon/upy/tree/main/skills/upy-project-adapter) | 为应用项目接入 upy 部署，生成服务器配置、bundle、GitHub Actions Release 与 CI Webhook 自动部署 | 方式 1 · 直接引用 | [AaronConlon/upy](https://github.com/AaronConlon/upy) |
 
 ## 使用
 
