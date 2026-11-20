@@ -18,6 +18,7 @@ Skill 按三种方式收录。完整规则见 [AGENTS.md](./AGENTS.md)。
 | [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 用一页 HTML 回答复杂问题（Answer me with HTML） | 方式 1 · 直接引用 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) |
 | [upy-project-adapter](https://github.com/AaronConlon/upy/tree/main/skills/upy-project-adapter) | 为应用项目接入 upy 部署，生成服务器配置、bundle、GitHub Actions Release 与 CI Webhook 自动部署 | 方式 1 · 直接引用 | [AaronConlon/upy](https://github.com/AaronConlon/upy) |
 | [pi-init](./pi-init/) | 在新设备初始化 pi agent：安装 pi-web-access、pi-subagents、shell-background 三个必选插件，修正 DeepSeek 官方 provider 的压缩阈值 | 方式 3 · 完全自研 | 无 |
+| [Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 编辑已有文章、评论和文档中的空话、重复及模板化表达，保留事实、确定程度和作者声音 | 方式 1 · 直接引用 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) |
 
 ## 使用
 
