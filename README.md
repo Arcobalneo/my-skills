@@ -21,6 +21,7 @@ Skill 按三种方式收录。完整规则见 [AGENTS.md](./AGENTS.md)。
 | [Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 编辑已有文章、评论和文档中的空话、重复及模板化表达，保留事实、确定程度和作者声音 | 方式 1 · 直接引用 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) |
 | [BeautifulRust](https://github.com/morganlinton/BeautifulRust) | 三套标准 Agent Skills 和一份 Clippy 配置，教编程助手编写、审阅、移植并检查地道 Rust 代码 | 方式 1 · 直接引用 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) |
 | [show-me](https://github.com/humanlayer/skills/tree/main/plugins/show-me/skills/show-me) | 用简洁图示、代码结构草图和聚焦的 HTML 成品，可视化地帮助理解当前话题 | 方式 1 · 直接引用 | [humanlayer/skills](https://github.com/humanlayer/skills) |
+| [migrate-to-rust](https://github.com/google/skills/tree/main/skills/developers/migrate-to-rust) | 把 GitHub 或本地的遗留代码库（C++、Fortran、Java、Python、C、Shell）迁移为高性能、确定性的 100% Safe Rust，并记录遥测、输出报告和交互式 HTML 信息图 | 方式 1 · 直接引用 | [google/skills](https://github.com/google/skills) |
 
 ## 使用
 
