@@ -22,6 +22,8 @@ Skill 按三种方式收录。完整规则见 [AGENTS.md](./AGENTS.md)。
 | [BeautifulRust](https://github.com/morganlinton/BeautifulRust) | 三套标准 Agent Skills 和一份 Clippy 配置，教编程助手编写、审阅、移植并检查地道 Rust 代码 | 方式 1 · 直接引用 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) |
 | [show-me](https://github.com/humanlayer/skills/tree/main/plugins/show-me/skills/show-me) | 用简洁图示、代码结构草图和聚焦的 HTML 成品，可视化地帮助理解当前话题 | 方式 1 · 直接引用 | [humanlayer/skills](https://github.com/humanlayer/skills) |
 | [migrate-to-rust](https://github.com/google/skills/tree/main/skills/developers/migrate-to-rust) | 把 GitHub 或本地的遗留代码库（C++、Fortran、Java、Python、C、Shell）迁移为高性能、确定性的 100% Safe Rust，并记录遥测、输出报告和交互式 HTML 信息图 | 方式 1 · 直接引用 | [google/skills](https://github.com/google/skills) |
+| [storage-analyzer](https://github.com/KKKKhazix/khazix-skills/tree/main/storage-analyzer) | macOS / Windows / Linux 只读存储分析助手（自动识别系统）。扫描整机磁盘占用，找出占空间大户，把每一项分成 🟢可自动清理 / 🟡需人工判断 / 🔴谨慎清理 三级并给出可执行处置方案，生成排版精美、可折叠、命令可一键复制的交互式 HTML 报告，并可起本地服务在网页上一键删除（移废纸篓/直接删）。扫描全程只读。 | 方式 1 · 直接引用 | [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
+| [neat-freak](https://github.com/KKKKhazix/khazix-skills/tree/main/neat-freak) | 干完活的知识收尾：把项目文档、CLAUDE.md/AGENTS.md 等规则文件、Agent 记忆和会话留下的临时文件，对齐到代码和线上的真实现状，让下一个会话或接手的人读到的是唯一、正确的现役答案。 | 方式 1 · 直接引用 | [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
 
 ## 使用
 
